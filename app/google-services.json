@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "381965890593",
+    "firebase_url": "https://spyappp-a9cd9.firebaseio.com",
+    "project_id": "spyappp-a9cd9",
+    "storage_bucket": "spyappp-a9cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381965890593:android:5a1794f96141a865",
+        "android_client_info": {
+          "package_name": "com.example.nomi.spyappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381965890593-dlv4hsq7uddi6tcdub9rfi3qvf8db8p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nomi.spyappp",
+            "certificate_hash": "b918c3f1be72d05a1421764f004c8673fb441902"
+          }
+        },
+        {
+          "client_id": "381965890593-ucj494j8c6hr460qvd36t1je7oo9oah3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuJPiUTcn1iud1xUrgaSh65hlAQle0U5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381965890593-ucj494j8c6hr460qvd36t1je7oo9oah3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
